@@ -1,0 +1,27 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  color: #380048;
+  padding: 20px;
+}
+
+.cards img {
+  height: 70px;
+  width: 70px;
+}
+
+.sub-titulo {
+  font-size: 16px;
+}
+
+.paragrafo {
+  font-size: 14px;
+}
+
+.link {
+  font-size: 15px;
+  text-decoration: none;
+  color: #380048;
+  font-weight: bold;
+}

@@ -1,0 +1,32 @@
+.coluna {
+  display: flex;
+  gap: 25px;
+  padding: 30px;
+  align-items: flex-start;
+}
+
+.coluna img {
+  height: 700px;
+  max-width: 100%;
+  width: 500px;
+  object-fit: cover;
+}
+
+.form {
+  background-color: #fff;
+  width: 100%;
+  max-width: 600px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-family: Arial, sans-serif;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.form h1 {
+  color: #2b003b;
+  font-size: 24px;
+  margin-bottom: 20px;
+}

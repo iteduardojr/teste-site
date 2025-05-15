@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 3rem;
+}
+
+.logo__botao {
+  font-size: 2rem;
+  text-decoration: none;
+  color: purple;
+  font-weight: bold;
+  position: fixed;
+}
+
+.container ul {
+  color: purple;
+  text-decoration: none;
+  display: flex;
+  gap: 16px;
+  list-style: none;
+}
+
+.container ul a {
+  text-decoration: none;
+}
+
+.botao__entrar {
+  border: solid 1px black;
+  padding: 8px;
+}
+
+.botao__demonstracao {
+  background-color: purple;
+  color: gold;
+  padding: 8px;
+}
