@@ -12,15 +12,15 @@
 }
 
 .sub-titulo {
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .paragrafo {
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 .link {
-  font-size: 15px;
+  font-size: 1rem;
   text-decoration: none;
   color: #380048;
   font-weight: bold;

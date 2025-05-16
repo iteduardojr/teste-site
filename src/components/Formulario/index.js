@@ -80,7 +80,8 @@ const Formulario = () => {
             "acima de 5000",
           ]}
         />
-        <BotaoEnviar>Enviar</BotaoEnviar>
+        <BotaoEnviar
+        >Enviar</BotaoEnviar>
       </form>
     </section>
   );

@@ -23,7 +23,7 @@ const Topo = () => {
             <li>
               <a href="/">Para empresas</a>
             </li>
-            <li>
+            <li className="mostrar-no-mobile">
               <a href="/" className="botao__entrar">
                 Entrar
               </a>

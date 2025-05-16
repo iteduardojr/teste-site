@@ -12,6 +12,12 @@
   position: fixed;
 }
 
+@media (max-width: 760px) {
+  header.container ul li:not(.mostrar-no-mobile) {
+    display: none;
+  }
+}
+
 .container ul {
   color: purple;
   text-decoration: none;
